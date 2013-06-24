@@ -1,6 +1,9 @@
 echonest.js
 =============
 
+UPDATE: this is out of date. I'm told this is nice and should be used instead:
+https://github.com/tcr/echojs
+
 A node.js client for the [Echonest API](http://developer.echonest.com/docs/v4/).
 
 [![Build Status](https://secure.travis-ci.org/badamson/node-echonest.png?branch=master)](http://travis-ci.org/badamson/node-echonest)
